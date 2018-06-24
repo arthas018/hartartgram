@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "377578312548",
+    "firebase_url": "https://artgram-3971c.firebaseio.com",
+    "project_id": "artgram-3971c",
+    "storage_bucket": "artgram-3971c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377578312548:android:a64506a7a1c2a04c",
+        "android_client_info": {
+          "package_name": "hag.com.hardartgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377578312548-nqgsab9chaud94mkb7pmjgigg4vlk1q2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hag.com.hardartgram",
+            "certificate_hash": "84e5e9fd9b512dfba880e0272420cb316dadaf6c"
+          }
+        },
+        {
+          "client_id": "377578312548-sfguqm2raa07he4j62jnl9bllfk3p4lp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "377578312548-sfguqm2raa07he4j62jnl9bllfk3p4lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8UitMf50CAH1Gd1lanLsPbBbOtpL5438"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377578312548-sfguqm2raa07he4j62jnl9bllfk3p4lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
